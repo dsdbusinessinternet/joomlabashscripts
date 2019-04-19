@@ -1,4 +1,4 @@
-# Jooma Bash Scripts
+# Joomla Bash Scripts
 These scripts are specifically designed to use combined with Joomla based websites.
 
 ---
